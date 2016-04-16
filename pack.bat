@@ -1,0 +1,1 @@
+nuget pack .\cannot-build-fody-project-with-nuget\cannot-build-fody-project-with-nuget.csproj -Build
